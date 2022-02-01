@@ -19,3 +19,9 @@ My personal dot files configuration
     -   [Nerd tree](https://github.com/preservim/nerdtree)
     -   [vim-smooth-scrool](https://github.com/terryma/vim-smooth-scroll)
   ![vim](https://user-images.githubusercontent.com/46299278/116075987-f1ad4580-a693-11eb-9712-d52d9b67a7e8.png)
+## Gnome settings
+for isolating workspaces on dash use
+
+```bash
+gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces
+```
