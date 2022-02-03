@@ -23,5 +23,5 @@ My personal dot files configuration
 for isolating workspaces on dash use
 
 ```bash
-gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces
+gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true
 ```
