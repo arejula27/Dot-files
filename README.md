@@ -25,3 +25,8 @@ for isolating workspaces on dash use
 ```bash
 gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true
 ```
+## VS coidum extensions
+
+```bash 
+flatpak --user override --env=VSCODE_GALLERY_SERVICE_URL=https://marketplace.visualstudio.com/_apis/public/gallery com.vscodium.codium
+```
