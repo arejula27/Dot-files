@@ -42,6 +42,17 @@ setopt prompt_subst
 
 PROMPT='%(?.%F{green}➜ .%F{red}➜ )%f %B%F{cyan}%1~%f%b %B%F{219}$(git_branch_name)%f%b%# '
 
+#Allow history
+SAVEHIST=1000  # Save most-recent 1000 lines
+HISTFILE=~/.zsh_history
+
 #Kubbernetes
    alias k=kubectl 
 [[ /usr/sbin/kubectl ]] && source <(kubectl completion zsh)
+
+#Go
+GOPATH=$HOME/go
+PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+#my alias
+alias code="flatpak run com.vscodium.codium --no-sandbox "
