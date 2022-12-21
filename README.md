@@ -7,7 +7,7 @@ My personal dot files configuration
  - **Shell**: zsh
  - **Config file**: [.zshrc](https://github.com/arejula27/Dot-files/blob/master/.zshrc)
  
- ![terminal](https://user-images.githubusercontent.com/46299278/116074995-b8280a80-a692-11eb-935d-b639143a26f0.png)
+![terminal](https://user-images.githubusercontent.com/46299278/209022655-24f03fbd-3c16-46d2-988a-89d52a6ed41e.png)
 
 
 ## Neovim
