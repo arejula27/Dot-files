@@ -3,7 +3,7 @@ My personal dot files configuration
 
 ## Terminal 
  - **Terminal emulator**: alacritty
- - **Terminal emulator theme**: [material palenight](https://github.com/arejula27/Dot-files/blob/master/.alacritty.yml)
+ - **Terminal emulator theme**: [rose pine](https://github.com/arejula27/Dot-files/blob/master/.alacritty.yml)
  - **Shell**: zsh
  - **Config file**: [.zshrc](https://github.com/arejula27/Dot-files/blob/master/.zshrc)
  
@@ -11,7 +11,7 @@ My personal dot files configuration
 
 
 ## Neovim
- - **Config**: [.vimrc](https://github.com/arejula27/Nvim-configuration)
+ - [**Config**](https://github.com/arejula27/Nvim-configuration)
  
 ## Gnome settings
 for isolating workspaces on dash use
